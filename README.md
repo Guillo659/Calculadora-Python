@@ -1,4 +1,6 @@
 ## Main.py
 Contiene el codigo de la calculadora
 # MiniMap
-https://xmind.ai/ugppowQn
+URL: https://xmind.ai/ugppowQn
+# Replit
+URL: https://replit.com/@GuillermoSalgad/Calculadora?v=1
