@@ -1,10 +1,9 @@
 ## Main.py
-Contiene el codigo de la calculadora\n
-Correr Script en Linux
-"""
+Contiene el codigo de la calculadora
+# Correr Script en Linux
+```
 python3 main.py
-"""
-
+```
 # MiniMap
 URL: https://xmind.ai/ugppowQn
 # Replit
