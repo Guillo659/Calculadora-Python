@@ -1,8 +1,8 @@
 ## Main.py
 Contiene el codigo de la calculadora
 # Correr Script en Linux
-```python:
-python3 main.py
+```bash:
+python main.py
 ```
 # MiniMap
 URL: https://xmind.ai/ugppowQn
